@@ -1,5 +1,5 @@
 def main(msg):
-	//print a message
+	//adding a second comment to this file
     print(msg) 
 
 main("Hello People")
